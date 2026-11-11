@@ -18,6 +18,4 @@ Plataforma móvil desarrollada en Flutter y Firebase para centralizar las convoc
 - Dispositivo físico Android/iOS o Emulador configurado.
 
 ## ⚙️ Instalación y Configuración
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/hub_clubes_escom.git](https://github.com/tu-usuario/hub_clubes_escom.git)
+
